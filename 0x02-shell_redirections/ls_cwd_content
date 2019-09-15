@@ -1,0 +1,27 @@
+total 184
+-rw-r--r--   1 jhon  staff   17 Sep 15 10:20 *\"Holberton School"\\*$?*****:)
+drwxr-xr-x  26 jhon  staff  884 Sep 15 11:59 .
+drwxr-xr-x   7 jhon  staff  238 Sep 14 11:54 ..
+-rwxr--r--   1 jhon  staff   33 Sep 15 07:03 0-hello_world
+-rwxr--r--   1 jhon  staff   35 Sep 15 07:02 0-hello_world~
+-rwxr--r--   1 jhon  staff   30 Sep 15 07:23 1-confused_smiley
+-rwxr--r--   1 jhon  staff   28 Sep 15 07:22 1-confused_smiley~
+-rwxr--r--   1 jhon  staff   28 Sep 14 19:59 2-hellofile
+-rwxr--r--   1 jhon  staff   39 Sep 15 07:58 3-twofiles
+-rwxr--r--   1 jhon  staff   29 Sep 15 08:14 4-lastlines
+-rwxr--r--   1 jhon  staff   29 Sep 15 09:35 5-firstlines
+-rwxr--r--   1 jhon  staff   40 Sep 15 09:52 6-third_line
+-rwxr--r--   1 jhon  staff  101 Sep 15 11:25 7-file
+-rwxr--r--   1 jhon  staff  103 Sep 15 11:14 7-file~
+-rwxr--r--   1 jhon  staff   38 Sep 15 11:59 8-cwd_state
+-rw-r--r--   1 jhon  staff   12 Sep 15 11:46 8-cwd_state~
+-rw-r--r--   1 jhon  staff   23 Sep 14 11:28 README.md
+-rw-r--r--   1 jhon  staff   17 Sep 15 11:15 \*\\"Holberton School"\\\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 jhon  staff   17 Sep 15 10:47 \*\\"Holberton School\"\\\\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 jhon  staff   17 Sep 15 11:25 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 jhon  staff   17 Sep 15 11:00 \*\\'Holberton School'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 jhon  staff   17 Sep 15 10:31 \*\\\"Holberton School\"\\\\\*$\?\*\*\*\*\*:\)
+-rw-r--r--   1 jhon  staff   17 Sep 15 11:11 \*\\\\"Holberton School\"\\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 jhon  staff  743 Sep 15 09:46 iacta
+-rw-r--r--   1 jhon  staff  743 Sep 15 09:46 iacta~
+-rw-r--r--   1 jhon  staff    0 Sep 15 11:59 ls_cwd_content
