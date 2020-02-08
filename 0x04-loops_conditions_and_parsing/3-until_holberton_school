@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Script that displays Holberton School 10 times
 i="20"
-until [ 10 -lt $i ]
+until ((i<=10))
 do
     echo "Holberton School"
     ((i++))
