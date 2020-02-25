@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# script that configures a new IP
+cp /etc/hosts ~/host.tmp
+echo "127.0.0.2 localhost" > ~/host.tmp
+echo "8.8.8.8 facebook.com" >> ~/host.tmp
+cp -f ~/host.tmp /etc/hosts
