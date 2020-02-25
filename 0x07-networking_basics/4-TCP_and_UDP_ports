@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# netstat: check the listening ports
+# -l Show listening sockets
+# -p List process name that opened sockets
+netstat -lp
