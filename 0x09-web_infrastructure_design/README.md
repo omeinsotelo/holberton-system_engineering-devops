@@ -13,11 +13,11 @@ System engineering & DevOps ― Web stack
 
 ## Files
 
-| File | Description |
-| ---- | ----------- |
-| [**0-simple_web_stack**](https://github.com/omeinsotelo/holberton-system_engineering-devops/blob/master/0x09-web_infrastructure_design/0-simple_web_stack) | **diagram must includes:** 1 server, 1 web server (Nginx), 1 application server, 1 application files (your code base), 1 database (MySQL) - 1 domain name foobar.com configured with a www record that points to your server IP 8.8.8.8 |
-| [**1-distributed_web_infrastructure**](https://github.com/omeinsotelo/holberton-system_engineering-devops/blob/master/0x09-web_infrastructure_design/1-distributed_web_infrastructure) | **diagram must adds:** 2 servers, 1 web server (Nginx), 1 application server, 1 load-balancer (HAproxy), 1 application files (your code base), 1 database (MySQL) |
-| [**2-secured_and_monitored_web_infrastructure**](https://github.com/omeinsotelo/holberton-system_engineering-devops/blob/master/0x09-web_infrastructure_design/2-secured_and_monitored_web_infrastructure) | **diagram must adds:** 3 firewalls, 1 SSL certificate to serve www.foobar.com over HTTPS, 3 monitoring clients (data collector for Sumologic or other monitoring services) |
+|File| Description
+|---|-----
+| [0-simple_web_stack](./0-simple_web_stack) | **diagram must includes**:<br />- 1 server <br />- 1 web server (Nginx) <br />- 1 application server <br />- 1 application files (your code base) <br />- 1 database (MySQL) <br />- 1 domain name foobar.com configured with a www record that points to your server IP 8.8.8.8
+| [1-distributed_web_infrastructure](./1-distributed_web_infrastructure) | **diagram must adds**: <br />- 2 servers<br />- 1 web server (Nginx) <br />- 1 application server <br />- 1 load-balancer (HAproxy)<br />- 1 application files (your code base) <br />- 1 database (MySQL)
+| [2-secured_and_monitored_web_infrastructure](./2-secured_and_monitored_web_infrastructure) | **diagram must adds**: <br />- 3 firewalls<br /> - 1 SSL certificate to serve www.foobar.com over HTTPS <br />- 3 monitoring clients (data collector for Sumologic or other monitoring services)
 
 
 ## Author
