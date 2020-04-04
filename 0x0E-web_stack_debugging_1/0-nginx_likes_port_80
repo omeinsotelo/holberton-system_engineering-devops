@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Remove default for directory sites-enabled and add
+# linking with symlinks to the sites-available/default
+sudo /etc/init.d/nginx stop
+sudo rm /etc/nginx/sites-enabled/default
+sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+sudo /etc/init.d/nginx start
