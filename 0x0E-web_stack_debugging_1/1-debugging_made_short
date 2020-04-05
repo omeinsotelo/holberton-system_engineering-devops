@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Rm and change default/sites-enabled and add
+sudo ln -sf /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+pkill -1 nginx
