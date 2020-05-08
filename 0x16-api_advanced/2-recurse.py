@@ -9,6 +9,8 @@ def recurse(subreddit, hot_list=[], after=""):
     """
     list containing the titles of all hot articles
     """
+    if after is None:
+        return []
     headers = {"User-Agent": "paulasv"}
     url = "https://www.reddit.com/r/{}".format(subreddit)
     url += "/hot.json?limit=100&after={}".format(after)
@@ -22,4 +24,3 @@ def recurse(subreddit, hot_list=[], after=""):
     after = json_data.get("data")["after"]
     recurse(subreddit, hot_list, after)
     return hot_list
-
